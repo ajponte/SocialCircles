@@ -2,8 +2,7 @@ SocialCircles
 =============
 
 Model friend memberships to multiple circles
-
-+++++++++++++
+---------
 Social Circles help users organize their personal social networks.  These are implemented as "circles" on Google+, and as "lists" on Facebook and Twitter. Each circle consists of a subset of a particular user's friends. Such circles may be disjoint, overlap, or be hierarchically nested.
 
 The goal of this competition is to automatically infer users' social circles. You are provided a set of users, each of whose circles must be inferred. To do this, participants have access to:
